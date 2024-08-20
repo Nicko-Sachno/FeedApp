@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FeedApp</string>
+    <string name="car_feed">car feed</string>
+    <string name="news_and_culture">news and culture</string>
+</resources>
